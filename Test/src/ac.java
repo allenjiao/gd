@@ -1,4 +1,4 @@
 
 public class ac {
-int i;
+int i=0;
 }
